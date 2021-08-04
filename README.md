@@ -1,8 +1,11 @@
 Nesse repositório está o projeto que desenvolvi para aprender e fixar os conhecimentos java. O banco 4U é um projeto grupal com tematica de simulação de uma conta bancária, projeto feito como parte dos estudos da Generation Brasil.
 
 link do projeto portugol:
+<p>
 https://github.com/liviaguimaraes92/tuma19java/blob/main/Portugol/banco4u.por
+<p>
 link do projeto eclipse:
+<p>
 https://github.com/ViniciusSP1995/turma19java/tree/main/Java/BANCO
 
  💻 ScreenShots
